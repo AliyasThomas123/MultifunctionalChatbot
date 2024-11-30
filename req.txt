@@ -4,6 +4,6 @@ openai==0.28
 pillow
 tensorflow
 tf-keras
-huggingface_hub
+huggingface-hub==0.26.2
 torch
 scikit-learn
