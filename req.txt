@@ -1,0 +1,9 @@
+streamlit
+transformers 
+openai==0.28 
+pillow
+tensorflow
+tf-keras
+huggingface_hub
+torch
+scikit-learn
